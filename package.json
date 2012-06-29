@@ -1,0 +1,9 @@
+{
+    "name": "pitchdrop-bot",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "twitter": ">=0.1.18",
+        "nano": ">=3.0.9"
+    }
+}
